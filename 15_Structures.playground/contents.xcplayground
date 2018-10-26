@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Custom Types'/>
+        <page name='Struct Properties'/>
+        <page name='Mutablility'/>
+        <page name='Calculated Properties'/>
+        <page name='Functions'/>
+        <page name='Instance Methods'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-Your Own Structure '/>
+    </pages>
+</playground>

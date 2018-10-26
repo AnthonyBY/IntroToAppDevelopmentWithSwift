@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Changing Your Colors'/>
+        <page name='Hide the Results Sidebar'/>
+        <page name='The Console'/>
+        <page name='Hello'/>
+        <page name='Messages from Programmers'/>
+        <page name='What Can You Print?'/>
+        <page name='Logging'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-Debugging'/>
+        <page name='Exercise-Console App'/>
+    </pages>
+</playground>

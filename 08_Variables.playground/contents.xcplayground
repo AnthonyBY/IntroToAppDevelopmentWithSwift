@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Constant and Variable'/>
+        <page name='Declaring Variables'/>
+        <page name='Working With Variables'/>
+        <page name='A Shortcut'/>
+        <page name='Confusing Changes'/>
+        <page name='Trying to Change a Constant'/>
+        <page name='You Make the Choice'/>
+        <page name='Safer Code in a Varying World'/>
+        <page name='Safer Code in an Unexpected World'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-Shopping List'/>
+        <page name='Exercise-501'/>
+    </pages>
+</playground>

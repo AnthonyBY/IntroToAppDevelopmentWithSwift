@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='First Words'/>
+        <page name='Dealing with Cases'/>
+        <page name='Special Questions'/>
+        <page name='Default Answers'/>
+        <page name='Putting It All together'/>
+        <page name='Wrap up'/>
+    </pages>
+</playground>

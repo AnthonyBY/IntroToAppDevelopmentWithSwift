@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='From Specific To General'/>
+        <page name='Your Favorite Food'/>
+        <page name='Passing More Values'/>
+        <page name='Other Favorite Things'/>
+        <page name='Getting Values Back'/>
+        <page name='Giving Values Back'/>
+        <page name='Kinds of Function'/>
+        <page name='Building Blocks'/>
+        <page name='Naming'/>
+        <page name='Parameter Names and Argument Labels'/>
+        <page name='The Argument Without a Name'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-Verbing Your Noun'/>
+        <page name='Exercise-Using Return Values'/>
+        <page name='Exercise-Argument Label'/>
+        <page name='Exercise-No Argument Label'/>
+    </pages>
+</playground>

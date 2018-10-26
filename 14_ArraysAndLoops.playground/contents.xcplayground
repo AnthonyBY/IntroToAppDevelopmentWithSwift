@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Lists'/>
+        <page name='Array Literals'/>
+        <page name='Indices'/>
+        <page name='Count'/>
+        <page name='Types'/>
+        <page name='Processing Arrays'/>
+        <page name='Loops'/>
+        <page name='Mutable Arrays'/>
+        <page name='Adding Items'/>
+        <page name='Removing Items'/>
+        <page name='Replacing Items'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-Count'/>
+        <page name='Exercise-Karaoke Host'/>
+        <page name='Exercise-CountingVotes'/>
+        <page name='Exercise-Goals'/>
+        <page name='Exercise-Screening Messages'/>
+    </pages>
+</playground>

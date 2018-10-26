@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Instances'/>
+        <page name='Creating an Instance'/>
+        <page name='Methods'/>
+        <page name='Methods and Type Safety'/>
+        <page name='Properties'/>
+        <page name='Properties Versus Methods'/>
+        <page name='APIs, revisited'/>
+        <page name='What Does This Do?'/>
+        <page name='Quick Help'/>
+        <page name='Read the Fine Manual'/>
+        <page name='Classes and Structs'/>
+        <page name='Why Methods and Properties?'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-The Return of BoogieBot'/>
+        <page name='Exercise-Freight Elevator'/>
+        <page name='Exercise-Identity'/>
+    </pages>
+</playground>

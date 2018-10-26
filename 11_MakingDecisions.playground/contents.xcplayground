@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='True and False'/>
+        <page name='Equality'/>
+        <page name='More Comparisons'/>
+        <page name='Conditionals'/>
+        <page name='Else'/>
+        <page name='Else If'/>
+        <page name='Functions and Decisions'/>
+        <page name='Remainder Operator'/>
+        <page name='Wrapup'/>
+        <page name='Exercise-If Statement Practice'/>
+        <page name='Exercise-Else practice'/>
+        <page name='Exercise-Leap years'/>
+    </pages>
+</playground>
