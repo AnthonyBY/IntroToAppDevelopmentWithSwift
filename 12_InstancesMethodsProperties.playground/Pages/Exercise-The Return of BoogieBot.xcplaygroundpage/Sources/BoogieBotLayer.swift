@@ -91,7 +91,7 @@ class BoogieBotLayer: CALayer {
     private let rightLeg: CALayer = { $0.frame = CGRect(x:88, y: 165, width:12, height:60); return $0 }(CALayer())
     fileprivate let nameLayer: CATextLayer = {
         $0.frame = CGRect(x:5, y: 230, width: 140, height: 20)
-        $0.alignmentMode = kCAAlignmentCenter
+        $0.alignmentMode = CATextLayerAlignmentMode.center
         $0.string = ""
         $0.fontSize = 15
         $0.foregroundColor = NSColor.white.cgColor
@@ -230,7 +230,7 @@ class BoogieBotLayer: CALayer {
                 animation.fromValue = layer.value(forKey: animation.keyPath!)
                 animation.duration = moveDuration
                 animation.toValue = move.toValue
-                animation.timingFunction = CAMediaTimingFunction(name: kCAMediaTimingFunctionLinear)
+                animation.timingFunction = CAMediaTimingFunction(name: CAMediaTimingFunctionName.linear)
                 layer.setValue(animation.toValue, forKey: animation.keyPath!)
                 layer.add(animation, forKey: animation.keyPath)
             }
