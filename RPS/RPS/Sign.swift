@@ -38,34 +38,17 @@ enum Sign {
     }
     
     func takeTurn(_ oposite: Sign) -> GameState {
-        switch self {
-        case .rock:
-            switch oposite {
-            case .rock:
-                return .draw
-            case .paper:
-                return .lose
-            case .scissors:
-                return .win
-            }
-        case .paper:
-            switch oposite {
-            case .paper:
-                return .draw
-            case .rock:
-                return .win
-            case .scissors:
-                return .lose
-            }
-        case .scissors:
-            switch oposite {
-            case .paper:
-                return .win
-            case .rock:
-                return .lose
-            case .scissors:
-                return .draw
-            }
+        switch (self, oposite) {
+        case (.rock, .rock),
+             (.paper, .paper),
+             (.scissors, .scissors):
+            return .draw
+        case (.rock, .scissors),
+             (.paper, .rock),
+             (.scissors, .paper):
+            return .win
+        default:
+            return .lose
         }
     }
 }
